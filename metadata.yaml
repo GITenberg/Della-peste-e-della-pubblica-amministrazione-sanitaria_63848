@@ -1,11 +1,16 @@
 _repo: Della-peste-e-della-pubblica-amministrazione-sanitaria_63848
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63848-h/images/cover.jpg
 creator:
   author:
     agent_name: Frari, Angelo Antonio
     gutenberg_agent_id: '52635'
     url: http://www.gutenberg.org/2009/agents/52635
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63848#Della-peste-e-della-pubblica-amministrazione-sanitaria
 gutenberg_issued: '2020-11-22'
 gutenberg_type: Text
 identifiers:
